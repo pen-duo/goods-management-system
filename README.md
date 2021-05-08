@@ -11,7 +11,7 @@
 + vue：Vue是一套用于构建用户界面的渐进式框架。
 + vuex：Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。
 + vue-router：Vue Router 是 Vue.js 官方的路由管理器。
-+ less：Less 是一门 CSS 预处理语言，它扩展了 CSS 语言，增加了变量、Mixin、函数等特性，使 CSS 更易维护和扩展。
++ scss：Scss 是一门 CSS 预处理语言，它扩展了 CSS 语言，增加了变量、Mixin、函数等特性，使 CSS 更易维护和扩展。
 + ant-design-vue：Antd,一套为开发者、设计师和产品经理准备的基于 Vue 的桌面端组件库。
 + axios：进行网络请求。
 + Koa  基于 Node.js 平台的下一代 web 开发框架 
