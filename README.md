@@ -21,9 +21,13 @@
 (1) node(版本尽可能高)，请参考：[node的下载及安装](https://nodejs.org/zh-cn/)。
 
 ## 开发
+
 git clone https://github.com/pen-duo/goods-management-system
+
 cd goods-management-system/book-mgr-fe (1)npm install --> (2)npm run serve
+
 cd goods-management-system/book-mgr-be (1)npm install --> (2)npm run dev
+
 cd goods-management-system/book-mgr-be/init (1)node index.js
 
 ### 本地运行
@@ -38,8 +42,11 @@ npm run bulid (生成打包之后的项目文件,此文件主要用于项目部�
 
 测试账号:
 1.管理员: admin / password: admin
+
 2.成员: editor / password: 123456
 
 注意：
+
 admin：拥有最高权限，可以查看所有的页面和按钮；
+
 editor：只有被赋予权限的页面和按钮才可以看到
